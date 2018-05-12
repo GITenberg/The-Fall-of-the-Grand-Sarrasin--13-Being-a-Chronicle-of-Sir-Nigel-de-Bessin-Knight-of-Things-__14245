@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5430'
     url: http://www.gutenberg.org/2009/agents/5430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14245#The-Fall-of-the-Grand-Sarrasin--13-Being-a-Chronicle-of-Sir-Nigel-de-Bessin-Knight-of-Things-_
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text
 identifiers:
