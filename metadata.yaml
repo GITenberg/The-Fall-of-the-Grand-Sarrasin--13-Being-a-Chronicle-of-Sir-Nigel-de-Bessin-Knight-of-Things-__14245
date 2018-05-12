@@ -1,0 +1,34 @@
+_repo: The-Fall-of-the-Grand-Sarrasin--13-Being-a-Chronicle-of-Sir-Nigel-de-Bessin-Knight-of-Things-__14245
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferrar, William John
+    birthdate: 1868
+    gutenberg_agent_id: '5430'
+    url: http://www.gutenberg.org/2009/agents/5430
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guernsey (Channel Islands) -- Fiction'
+- !lcsh 'Middle Ages -- Fiction'
+- !lcc 'PR'
+title: "The Fall of the Grand Sarrasin\r\nBeing a Chronicle of Sir Nigel de Bessin,\
+  \ Knight, of Things that Happed in Guernsey Island, in the Norman Seas, in and about\
+  \ the Year One Thousand and Fifty-Seven"
+url: http://www.gutenberg.org/ebooks/14245
